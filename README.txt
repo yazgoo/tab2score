@@ -1,3 +1,5 @@
+tabs are from http://www.bigbasstabs.com/
+
 $ ./tab2score.rb examples/summertime.tab
      Bb minor 7           Bb minor 7     Bb minor 7      Bb minor 7
 G|——————————————1———|——3———1—————————|———————————————|————————————————|
